@@ -13,9 +13,7 @@ Before you go looking for subdomains, you should think about the subdomain categ
 Not only will these categories help you to find your subdomains, they will also help you to prioritize your development efforts.
 [Details](docs/Subdomain.md)
 
-**Model:** A system of abstractions that describes selected aspects of a domain and can be used to solve problems related to that domain.
-The Domain Model itself could be a diagram, code examples or even written documentation of the problem. 
-The important thing is, the Domain Model should be accessible and understandable by everyone who is involved with the system.
+**[Domain Model](docs/DomainModel.md)** 
 
 **Domain Expert:** Domain expert is a person who is an owner in a particular area or topic.
 
