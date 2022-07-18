@@ -21,9 +21,9 @@ The important thing is, the Domain Model should be accessible and understandable
 
 **Ubiquitous Language:** Ubiquitous language is a language communicated around the domain model and used by all team members to connect all the activities of the team with the software.
 
-**Bounded context:** A Bounded Context is the boundary in which domain model particular works. This keeps isolated from other domains.
+**[Bounded context](docs/BoundedContext.md)**
 
-**Context map:** A Context Map is the integration of all the domain models in the systems. Each model might have been developed independent of each other. Over the time the proper integration needs to be done in order to make the system to work from end to end.
+**[Context map](docs/ContextMap.md)** 
 
 **Entity:** An object that can be identified uniquely or by its identifier. Entity can be identified either by its ids or combination of some attributes. Entity is an identity.
 
