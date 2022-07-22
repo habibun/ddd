@@ -1,4 +1,12 @@
-Concepts of Domain Driven Design
+### Resources: ###  
+- [Discovering the Domain Architecture](https://www.microsoftpressstore.com/articles/article.aspx?p=2248811)
+- [The absolute beginner's guide to Domain Driven Design with Symfony](https://www.youtube.com/watch?v=pfMGgd_NDPc)
+- [DDD & REST - Domain Driven APIs for the Web  ](https://www.youtube.com/watch?v=1RgXgZcj5nM)
+  -  [Download slides](http://gotocon.com/berlin-2015/presentation/DDD%20&%20REST%20-%20Domain%20Driven%20APIs%20for%20the%20Web)
+
+
+
+### Concepts of Domain Driven Design ###  
 
 **Domain:** The subject area to which the user applies a program is the domain of the software.
 It is also termed as sphere of knowledge.
