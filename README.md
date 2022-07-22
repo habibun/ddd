@@ -43,4 +43,4 @@ Services can be of three types:
 
 [Details](docs/Service.md)
 
-[layer](docs/Layer.md)
+[Layer](docs/Layer.md)
